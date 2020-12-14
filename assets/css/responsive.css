@@ -1,0 +1,669 @@
+@media (max-width: 424px) {
+  .navbar-brand {
+    margin-left: 10px;
+  }
+  .navbar-brand img,
+  .first-div img {
+    width: 128px;
+  }
+  .navbar-toggler {
+    margin: -31px 0;
+  }
+  .navbar-toggler i {
+    font-size: 20px;
+  }
+  .navbar-nav {
+    background: #0081ff !important;
+    margin: 40px 10px;
+    z-index: 1;
+  }
+  .navbar-nav li {
+    padding-left: 20px;
+  }
+  .navbar-nav li:nth-child(2),
+  .navbar-nav li:nth-child(3),
+  .navbar-nav li:nth-child(4),
+  .navbar-nav li:nth-child(5) {
+    margin-left: 0px;
+  }
+  .navbar-nav li:nth-child(6) {
+    margin-left: 0px;
+  }
+  .home-text h2 {
+    font-size: 40px;
+  }
+  .page-heading p,
+  .shortcus-heading p,
+  .team-heading p,
+  .blog-heading p,
+  .testomonial p {
+    font-size: 16px;
+    margin: 20px 0px !important;
+  }
+  #page {
+    height: 1050px;
+  }
+  .page-text {
+    margin-bottom: 50px;
+  }
+  .sub-page-part-one {
+    margin-left: 0px;
+  }
+  .sub-page-part-one p.text-one {
+    font-size: 16px;
+  }
+  .text-second {
+    font-size: 16px;
+
+    margin-right: 0px;
+  }
+  .sub-page-button {
+    font-size: 11px;
+  }
+  .sub-page-part-two-text p {
+    font-size: 16px;
+  }
+  .sub-page-part-one,
+  .sub-page-part-two {
+    margin-top: 33px;
+  }
+  .shortcus-button button {
+    font-size: 11px;
+    margin-left: 10px;
+  }
+  .shortcus-button {
+    margin: 60px 0;
+  }
+  .hover-page h6,
+  .hover-page p,
+  .hover-page-two h6,
+  .hover-page-two p {
+    font-size: 8px;
+  }
+  .mix-footer h5 {
+    font-size: 16px;
+    margin-left: 0;
+  }
+  .mix-footer a {
+    font-size: 9px;
+    margin-left: 7px;
+    margin-top: 10px;
+    padding: 10px 14px;
+  }
+  .team-hover-page h6 {
+    font-size: 7px;
+  }
+  .team-hover-page p {
+    font-size: 6px;
+  }
+  .skill-text {
+    margin-left: 0px;
+  }
+  .skill-text p.first-skill-text {
+    font-size: 16px;
+  }
+  .skill-text h5 {
+    font-size: 20px;
+  }
+  .last-skill-text {
+    font-size: 16px;
+    margin-right: 40px;
+  }
+  .blog-div img {
+    width: 300px;
+  }
+  .last-img {
+    width: 300px;
+  }
+  .blog-div-text {
+    margin-left: 10px;
+    margin-right: 10%;
+  }
+  .carousel-item h6 {
+    margin: 0 9% !important;
+    font-size: 10px !important;
+    margin-bottom: 80px !important;
+  }
+  .testomonial p {
+    margin-bottom: 42px;
+  }
+  .carousel-control-next i,
+  .carousel-control-prev i {
+    margin-top: -107px;
+    font-size: 16px;
+    padding: 8px 0px;
+  }
+  .carousel-control-next {
+    right: -14px;
+  }
+  .carousel-control-prev {
+    left: -14px;
+  }
+  .shop-one {
+    margin-left: 0px;
+    margin-bottom: 50px;
+  }
+  .shop-one h3 {
+    font-size: 20px;
+  }
+  .shop-one p {
+    font-size: 15px;
+  }
+  .callout-text h3 {
+    font-size: 18px;
+  }
+  .callout-text p {
+    font-size: 15px;
+  }
+  .place-input {
+    width: 300px;
+  }
+  .third-div p {
+    font-size: 15px;
+  }
+  .callout-input i {
+    left: 279px;
+    top: 38px;
+  }
+}
+@media (max-width: 767px) {
+  .navbar-brand {
+    margin-left: 10px;
+  }
+  .navbar-brand img {
+    width: 128px;
+  }
+  .navbar-toggler {
+    margin: -31px 0;
+  }
+  .navbar-toggler i {
+    font-size: 20px;
+  }
+  .navbar-nav {
+    background: #0081ff !important;
+    margin: 40px 10px;
+    z-index: 1;
+  }
+  .navbar-nav li {
+    padding-left: 20px;
+  }
+  .navbar-nav li:nth-child(2),
+  .navbar-nav li:nth-child(3),
+  .navbar-nav li:nth-child(4),
+  .navbar-nav li:nth-child(5) {
+    margin-left: 0px;
+  }
+  .navbar-nav li:nth-child(6) {
+    margin-left: 0px;
+  }
+  .home-text h2 {
+    font-size: 40px;
+  }
+  .page-heading p,
+  .shortcus-heading p,
+  .team-heading p,
+  .blog-heading p,
+  .testomonial p {
+    font-size: 16px;
+    margin: 20px 50px;
+  }
+  #page {
+    height: 1000px;
+  }
+  .page-text {
+    margin-bottom: 50px;
+  }
+  .sub-page-part-one {
+    margin-left: 0px;
+  }
+  .sub-page-part-one p.text-one {
+    font-size: 16px;
+  }
+  .text-second {
+    font-size: 16px;
+
+    margin-right: 0px;
+  }
+  .sub-page-button {
+    font-size: 11px;
+  }
+  .sub-page-part-two-text p {
+    font-size: 16px;
+  }
+  .sub-page-part-one,
+  .sub-page-part-two {
+    margin-top: 33px;
+  }
+  .shortcus-button button {
+    font-size: 11px;
+    margin-left: 10px;
+  }
+  .shortcus-button {
+    margin: 60px 0;
+  }
+  .hover-page h6,
+  .hover-page p,
+  .hover-page-two h6,
+  .hover-page-two p {
+    font-size: 8px;
+  }
+  .mix-footer h5 {
+    font-size: 16px;
+    margin-left: 0;
+  }
+  .mix-footer a {
+    font-size: 9px;
+    margin-left: 7px;
+    margin-top: 10px;
+    padding: 10px 14px;
+  }
+  .team-hover-page h6 {
+    font-size: 7px;
+  }
+  .team-hover-page p {
+    font-size: 6px;
+  }
+  .skill-text {
+    margin-left: 0px;
+  }
+  .skill-text p.first-skill-text {
+    font-size: 16px;
+  }
+  .skill-text h5 {
+    font-size: 20px;
+  }
+  .last-skill-text {
+    font-size: 16px;
+    margin-right: 40px;
+  }
+  .blog-div img {
+    width: 300px;
+  }
+  .last-img {
+    width: 300px;
+  }
+  .blog-div-text {
+    margin-left: 10px;
+    margin-right: 10%;
+  }
+  .carousel-item h6 {
+    margin: 0 13%;
+    font-size: 13px;
+    margin-bottom: 80px;
+  }
+  .testomonial p {
+    margin-bottom: 42px;
+  }
+  .carousel-control-next i,
+  .carousel-control-prev i {
+    margin-top: -107px;
+    font-size: 16px;
+    padding: 8px 0px;
+  }
+  .carousel-control-next {
+    right: -14px;
+  }
+  .carousel-control-prev {
+    left: -14px;
+  }
+  .shop-one {
+    margin-left: 0px;
+    margin-bottom: 50px;
+  }
+  .shop-one h3 {
+    font-size: 20px;
+  }
+  .shop-one p {
+    font-size: 15px;
+  }
+  .callout-text h3 {
+    font-size: 18px;
+  }
+  .callout-text p {
+    font-size: 15px;
+  }
+  .place-input {
+    width: 300px;
+  }
+  .third-div p {
+    font-size: 15px;
+  }
+
+  .callout-input i {
+    left: 279px;
+    top: 38px;
+  }
+  .third-div h3,
+  .second-div h3 {
+    font-size: 20px;
+  }
+   .up-indicator {
+    font-size: 20px;
+    padding: 0px 7px;
+    margin-top: -10px;
+    margin-right: 10px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.9px) {
+  #nav-home {
+    height: 434px;
+  }
+  nav {
+    margin: 15px 0px;
+    z-index: inherit;
+  }
+  .fixed-top {
+    margin: 0px;
+    padding: 10px 0;
+  }
+  .navbar-nav {
+    background: #0081ff !important;
+    margin: 40px 10px;
+  }
+  .navbar-nav li {
+    padding-left: 20px;
+  }
+  .navbar-nav li:nth-child(2),
+  .navbar-nav li:nth-child(3),
+  .navbar-nav li:nth-child(4),
+  .navbar-nav li:nth-child(5) {
+    margin-left: 0px;
+  }
+  .navbar-nav li:nth-child(6) {
+    margin-left: 0px;
+  }
+  .navbar-toggler {
+    margin-top: -33px;
+  }
+  .navbar-toggler i {
+    font-size: 22px;
+    color: #fff;
+  }
+  .home-text {
+    top: 150px;
+  }
+  .home-text h2 {
+    font-size: 60px;
+  }
+  .page-heading p,
+  .shortcus-heading p,
+  .team-heading p,
+  .blog-heading p,
+  .testomonial p {
+    font-size: 18px;
+  }
+  #page {
+    height: 1050px;
+  }
+  .page-text {
+    margin-bottom: 50px;
+  }
+  .page-text h4 {
+    font-size: 30px;
+  }
+  .page-text p {
+    margin: 0 155px;
+    font-size: 19px;
+  }
+  .sub-page-part-one {
+    margin-left: 70px;
+  }
+  .sub-page-part-two-text {
+    margin-top: 14px;
+  }
+  .sub-page-part-two {
+    margin-left: 70px;
+  }
+  .sub-page-part-one p.text-one {
+    font-size: 18px;
+  }
+  .sub-page-button {
+    font-size: 14px;
+  }
+  .text-second {
+    font-size: 16px;
+    margin-right: 110px;
+  }
+  .sub-page-part-two-text p {
+    font-size: 18px;
+  }
+  .sub-page-part-one,
+  .sub-page-part-two {
+    margin-top: 100px;
+  }
+  .shortcus-button {
+    margin: 100px 0;
+  }
+  .shortcus-button button {
+    font-size: 16px;
+    margin-left: 50px;
+  }
+  .hover-page h6,
+  .hover-page p,
+  .hover-page-two h6,
+  .hover-page-two p {
+    font-size: 18px;
+  }
+  .mix-footer h5 {
+    font-size: 30px;
+    margin-left: 5%;
+  }
+
+  .skill-bar {
+    margin-left: 70px;
+  }
+  .edit {
+    margin-right: 372px;
+  }
+  .blog-div img {
+    width: 300px;
+    height: 180px;
+  }
+  .last-img {
+    width: 365px;
+  }
+  .blog-div-last {
+    padding-bottom: 69px;
+  }
+  .shop-one p {
+    font-size: 16px;
+  }
+  .shop-one h3 {
+    font-size: 21px;
+  }
+  .carousel-item h6 {
+    font-size: 22px;
+  }
+  .callout-text h3 {
+    font-size: 21px;
+  }
+  .callout-text p {
+    font-size: 16px;
+  }
+  .callout-input {
+    margin-top: 9px;
+  }
+  .callout-input i {
+    top: 27px;
+  }
+  .first-div p {
+    font-size: 15px;
+  }
+  .ul-text li a {
+    font-size: 16px;
+  }
+  .third-div p {
+    font-size: 14px;
+  }
+    .up-indicator {
+    font-size: 20px;
+    padding: 0px 7px;
+    margin-top: -10px;
+    margin-right: 10px;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar-nav {
+    margin-left: 47px;
+  }
+  .nav-link {
+    font-size: 14px !important;
+  }
+  .home-text h2 {
+    font-size: 60px;
+  }
+  .page-heading p,
+  .shortcus-heading p,
+  .team-heading p,
+  .blog-heading p,
+  .testomonial p {
+    font-size: 18px;
+  }
+  .page-text h4 {
+    font-size: 20px;
+  }
+  .page-text p {
+    font-size: 16px;
+  }
+  .sub-page-part-one {
+    margin-left: 70px;
+  }
+  .sub-page-part-two-text {
+    margin-top: 24px;
+  }
+  .sub-page-part-one p.text-one {
+    font-size: 18px;
+  }
+  .text-second {
+    font-size: 16px;
+    margin-right: 110px;
+  }
+  .sub-page-button {
+    font-size: 14px;
+  }
+  .sub-page-part-two-text p {
+    font-size: 18px;
+  }
+  .sub-page-part-one,
+  .sub-page-part-two {
+    margin-top: 100px;
+  }
+  .shortcus-button button {
+    font-size: 16px;
+    margin-left: 50px;
+  }
+  .shortcus-button {
+    margin: 100px 0;
+  }
+  .mix-footer h5 {
+    font-size: 30px;
+    margin-left: 5%;
+  }
+  .hover-page h6,
+  .hover-page p,
+  .hover-page-two h6,
+  .hover-page-two p {
+    font-size: 18px;
+  }
+
+  .blog-div img {
+    width: 260px !important;
+  }
+  .blog-div-last {
+    padding-bottom: 58px;
+  }
+  .last-img {
+    width: 300px;
+  }
+  .carousel-item h6 {
+    font-size: 22px;
+  }
+  .callout-text h3 {
+    font-size: 29px;
+  }
+}
+@media (min-width: 1200px) {
+  .home-text h2 {
+    font-size: 60px;
+  }
+  .page-heading p,
+  .shortcus-heading p,
+  .team-heading p,
+  .blog-heading p,
+  .testomonial p {
+    font-size: 18px;
+  }
+  .page-text h4 {
+    font-size: 30px;
+  }
+  .page-text p {
+    font-size: 19px;
+  }
+  .sub-page-part-one {
+    margin-left: 70px;
+  }
+  .sub-page-part-two-text {
+    margin-top: 14px;
+  }
+  .sub-page-part-one p.text-one {
+    font-size: 18px;
+  }
+  .text-second {
+    font-size: 16px;
+    margin-right: 110px;
+  }
+  .sub-page-button {
+    font-size: 14px;
+  }
+  .sub-page-part-two-text p {
+    font-size: 18px;
+  }
+  .sub-page-part-one,
+  .sub-page-part-two {
+    margin-top: 100px;
+  }
+  .shortcus-button button {
+    font-size: 16px;
+    margin-left: 50px;
+  }
+  .shortcus-button {
+    margin: 100px 0;
+  }
+  .hover-page h6,
+  .hover-page p,
+  .hover-page-two h6,
+  .hover-page-two p {
+    font-size: 18px;
+  }
+  .mix-footer h5 {
+    font-size: 30px;
+    margin-left: 5%;
+  }
+  .blog-div img {
+    width: 300px !important;
+    height: 180px;
+  }
+  .blog-div-last {
+    padding-bottom: 69px;
+  }
+  .last-img {
+    width: 365px !important;
+  }
+  .carousel-item h6 {
+    font-size: 25px;
+  }
+  .callout-text h3 {
+    font-size: 30px;
+  }
+}
+@media (min-width: 1493px) {
+  .container-sub {
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
